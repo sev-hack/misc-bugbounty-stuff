@@ -2,15 +2,19 @@
 
 Intro - to-do...
 
-- File Upload:
-  - Test Image (< 1 Mb size) 
-  - Test Image (~ 2-5 Mb size)
-  - Test Image (~10 Mb size)
+- File Upload ([Content-Type wordlist](https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/web-all-content-types.txt)):
+  - Image (< 1 Mb size) 
+  - Image (~ 2-5 Mb size)
+  - Image (~10 Mb size)
   - [Big PNG Image](https://github.com/korczis/big-png)
-  - Test TAR Archive
-  - Test ZIP Archive
-  - Test XML File
-  - Test PDF File
-  - Test SVG File
+  - TAR File ()
+  - ZIP File (RCE, DOS, LFI Gadget)
+  - XML File (XXE)
+  - PDF File
+  - SVG File (Test for XXE, XSS, SSRF)
+  - CSF File (Test for CSV Injection)
+  - AVI File (Test for LFI, SSRF)
+  - JavaScript File (Test for XSS, Open Redirect)
+  - HTML File (Test for XSS, Open Redirect)
 - ...
 - ...
