@@ -13,7 +13,7 @@ Intro - to-do...
   - XML File (XXE) - [sample xml](files/sample.xml)
   - PDF File - [sample pdf](files/sample.pdf)
   - SVG File (Test for XXE, XSS, SSRF) - [sample svg](files/sample.svg), [svg xss](files/svg_xss.svg), [svg xxe](files/svg_xxe.svg)
-  - CSF File (Test for CSV Injection)
+  - CSV File (Test for CSV Injection) - [sample csv](files/sample.csv)
   - AVI File (Test for LFI, SSRF)
   - JavaScript File (Test for XSS, Open Redirect)
   - HTML File (Test for XSS, Open Redirect)
