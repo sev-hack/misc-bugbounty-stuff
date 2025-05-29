@@ -6,7 +6,7 @@ Intro - to-do...
   - Image (< 1 Mb size) - [sample jpg](files/sample.jpg), [sample png](files/sample.png)
   - Image (~ 2-5 Mb size)
   - Image (~10 Mb size)
-  - [Big PNG Image](https://github.com/korczis/big-png)
+  - Big PNG Image - [spark png](files/spark.png) (check more [here](https://github.com/korczis/big-png))
   - TAR File (to-do) - [sample tar](files/sample.tar)
   - ZIP File (RCE, DOS, LFI Gadget) - [sample zip](files/sample.zip)
   - XLSX File - [sample xlsx](files/sample.xlsx)
